@@ -1,2 +1,2 @@
 # Emergency_Notification_System
-專案-大量傷患緊急通報系統
+專案-重大災害事件傷病患通報系統
